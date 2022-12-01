@@ -21,7 +21,7 @@
 
 <section align="center">
   
-  ### Idiomas
+  ## Idiomas:
   
   English Basic
   
