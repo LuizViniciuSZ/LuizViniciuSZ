@@ -24,8 +24,10 @@
   ### Idiomas
   
   English Basic
+  
   <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" height=30 width="30" >
   <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" height=30 width="30">
+  
   Português Nativo
 
 </section>  
