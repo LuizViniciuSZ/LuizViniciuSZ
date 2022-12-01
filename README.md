@@ -1,6 +1,6 @@
 <section id="aboutme" align="center">
   
-  ### Olá, eu sou o Luiz Vinicius 👋
+  ### Olá! Eu sou o Luiz Vinicius 👋
   
   [![ LinkedIn ]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/luizvinicius-/ )
   [![ Instagram ]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )]( https://www.instagram.com/luiz.vinicius_omv/ )
